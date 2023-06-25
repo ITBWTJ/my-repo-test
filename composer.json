@@ -1,5 +1,5 @@
 {
-    "name": "ken2g/my-repo",
+    "name": "itbwtj/my-repo-test",
     "autoload": {
         "psr-4": {
             "Ken2g\\MyRepo\\": "src/"
