@@ -1,0 +1,15 @@
+{
+    "name": "ken2g/my-repo",
+    "autoload": {
+        "psr-4": {
+            "Ken2g\\MyRepo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Lev",
+            "email": "19ivan.lev97@gmail.com"
+        }
+    ],
+    "require": {}
+}
